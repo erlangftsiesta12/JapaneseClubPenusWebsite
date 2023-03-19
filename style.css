@@ -18,7 +18,7 @@
     padding: 0 15px;
   }
   .header-area {
-    background:url(/asset/bghomepage.jpg);
+    background:url("./asset/bghomepage.jpg");
     filter: brightness();
     background-position: center center;
     background-size: cover;
